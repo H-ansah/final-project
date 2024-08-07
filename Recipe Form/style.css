@@ -1,0 +1,36 @@
+header {
+    background-color: rgb(239, 237, 170);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+   font-family: 'Courier New', Courier, monospace;
+   font-size:x-large
+}
+
+.img_card a img {
+    width: 500px ;
+    height: 500px; 
+    border-radius:10px;
+    overflow: hidden;
+    
+}
+
+nav {
+    float: left;
+    width: 40%;
+    height: 500px;
+}
+
+aticle {
+    float: right;
+    font-family:'Courier New', Courier, monospace;
+}
